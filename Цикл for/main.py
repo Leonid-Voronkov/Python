@@ -4,4 +4,4 @@ for i in 'Hello world':
 
 # Функция range() генерирует массив, который потом перебирает цикл for
 for i in range(10):
-    pass
+    print(i)
